@@ -1,8 +1,8 @@
 # post
 I followed 2 TUTORIALS by traversy media on nodemailer AND Send Email Messages With Attachments Using NodeMailer AND multer BY Coding Shiksha  but i need to create them on separate pages as both of them were inserted into the paa.js file.
 
-1. is a submission of info (input fields) including uploading and sending a pdf file.
-second page is the ordinary contact us page. which submits the ordinary information 
+1. Is a submission of info (input fields) including uploading and sending a pdf file.
+2. Second page is the ordinary contact us page. which submits the ordinary information 
  but i need to put it on different js pages like submission.js and a contact.js but I don't know how to separate it from the main app.js file. can someone please assist me 
 
 i stripped out the code from the app.js file now and seperated them to its relevant folder but now the below issues occur...
