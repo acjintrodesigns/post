@@ -1,6 +1,6 @@
 # Multiple nodemailer post options
 
-This website /app uses multer and nodemailer to send information from the input text area and a document like cv in any form like pdf or word document as well as the ordinary contact form using modemailer.
+This website /app uses multer and nodemailer to send information from 2 contact forms the input text area and a document like cv in any form like pdf or word document as well as the ordinary contact form using modemailer.
 
 I followed 2 TUTORIALS by traversy media on nodemailer AND Send Email Messages With Attachments Using NodeMailer AND multer BY Coding Shiksha and tried to combine it into 1 website/app  but i realized that i need to create them on separate pages as both of them were inserted into the app.js file.
 
