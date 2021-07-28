@@ -1,4 +1,4 @@
-# post
+# Multiple nodemailer post options
 I followed 2 TUTORIALS by traversy media on nodemailer AND Send Email Messages With Attachments Using NodeMailer AND multer BY Coding Shiksha  but i need to create them on separate pages as both of them were inserted into the paa.js file.
 
 1. Is a submission of info (input fields) including uploading and sending a pdf file.
